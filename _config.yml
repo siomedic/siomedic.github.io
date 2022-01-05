@@ -1,0 +1,5 @@
+remote_theme: pages-themes/tactile@v0.2.0
+title: "SIOMediC"
+description: "Security for the Internet of Medical Things"
+plugins:
+- jekyll-remote-theme
