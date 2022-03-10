@@ -13,7 +13,7 @@ TBA
 - Pascal Berthomé, [INSA CVL](https://www.insa-centrevaldeloire.fr/en), [LIFO](https://www.univ-orleans.fr/lifo/?lang=en)
 - Laurent Bobelin, [INSA CVL](https://www.insa-centrevaldeloire.fr/en), [LIFO](https://www.univ-orleans.fr/lifo/?lang=en)
 - Patrice Bonhomme, [INSA CVL](https://www.insa-centrevaldeloire.fr/en), [LIFAT](https://lifat.univ-tours.fr)
-- Frédéric Dabrowski, Université d’Orléans, [LIFO](https://www.univ-orleans.fr/lifo/?lang=en)
+- Frédéric Dabrowski, [Université d'Orléans](https://www.univ-orleans.fr/en), [LIFO](https://www.univ-orleans.fr/lifo/?lang=en)
 
 ## Publications
 
