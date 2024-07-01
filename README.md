@@ -16,7 +16,7 @@ Digital health and in particular Connected Medical Devices (CMD) are experiencin
 - Yohan Boichut, [Université d'Orléans](https://www.univ-orleans.fr/en), [LIFO](https://www.univ-orleans.fr/lifo/?lang=en), team [LMV](https://www.univ-orleans.fr/lifo/equipes/lmv/)
 - Frédéric Dabrowski, [Université d'Orléans](https://www.univ-orleans.fr/en), [LIFO](https://www.univ-orleans.fr/lifo/?lang=en), team [LMV](https://www.univ-orleans.fr/lifo/equipes/lmv/)
 - Benjamin Vignau, CEO, [Coeur-Net](https://www.coeur-net.fr)
-- Térence Clastres, Ingénieur d'études, Université d'Orléans, LIFO, team LMV (2023)
+- Térence Clastres, Ingénieur d'études, Université d'Orléans, LIFO, team LMV (2023, 2024)
 - Nicolas Schiver, Ingénieur d'études, Université d'Orléans, LIFO, team LMV (2024)
 
 ## Partners 
